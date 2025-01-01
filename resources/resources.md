@@ -21,7 +21,7 @@ For each topic, please organize your resources in the following order:
 ## Example: Quantum Machine Learning
 
 ### 1. YouTube Videos or Online Courses
-- [Quantum Machine Learning - YouTube Playlist](https://www.youtube.com/playlist?list=EXAMPLE)
+- [Introduction to Quantum Computing and Quantum Hardware](https://youtube.com/playlist?list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR&si=TzjVDGUyXTOOsWCH)
 - [Qiskit Tutorials for Beginners](https://qiskit.org/learn/tutorials)
 
 ### 2. Reference Books
@@ -33,5 +33,7 @@ For each topic, please organize your resources in the following order:
 - "Supervised learning with quantum computers" - Physical Review Letters, 2016
 
 ---
+
+I especially encourage **Mohammad Ali** to contribute by sharing diverse and high-quality courses in the field of Quantum Computing to help the rest of the group! 🙏
 
 Please ensure your contributions are as accurate and detailed as possible to benefit everyone! 🙏
