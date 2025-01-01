@@ -21,7 +21,7 @@ For each topic, please organize your resources in the following order:
 ## Example: Quantum Machine Learning
 
 ### 1. YouTube Videos or Online Courses
-- [Quantum Machine Learning - YouTube Playlist](https://youtube.com/playlist?list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR&si=TzjVDGUyXTOOsWCH)
+- [Introduction to Quantum Computing and Quantum Hardware](https://youtube.com/playlist?list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR&si=TzjVDGUyXTOOsWCH)
 - [Qiskit Tutorials for Beginners](https://qiskit.org/learn/tutorials)
 
 ### 2. Reference Books
