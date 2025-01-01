@@ -34,4 +34,6 @@ For each topic, please organize your resources in the following order:
 
 ---
 
+I especially encourage **Mohammad Ali** to contribute by sharing diverse and high-quality courses in the field of Quantum Computing to help the rest of the group! 🙏
+
 Please ensure your contributions are as accurate and detailed as possible to benefit everyone! 🙏
