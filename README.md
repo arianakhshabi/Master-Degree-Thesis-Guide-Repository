@@ -46,6 +46,8 @@ If you’re unsure where to start, here are some popular research areas in Algor
 - Approximation Algorithms
 - Cryptography and Security
 - Data Structures and Optimization
+- Quantum Computing
+- Quantum Machine Learning
 
 ## For Future Students
 This repository is more than just a collection of resources—it’s a bridge connecting students across different years. As a future student:
